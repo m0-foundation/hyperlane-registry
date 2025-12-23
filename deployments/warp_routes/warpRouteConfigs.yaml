@@ -11614,6 +11614,7 @@ wM/wrapped-m:
       chainName: linea
       collateralAddressOrDenom: "0x437cc33344a0B27A429f795ff6B469C72698B291"
       connections:
+        - token: ethereum|ethereum|0x36f586A30502AE3afb555b8aA4dCc05d233c2ecE
         - token: ethereum|bsc|0x36f586A30502AE3afb555b8aA4dCc05d233c2ecE
       decimals: 6
       logoURI: /deployments/warp_routes/wM/logo.svg
@@ -11622,6 +11623,16 @@ wM/wrapped-m:
       symbol: wM
     - addressOrDenom: "0x36f586A30502AE3afb555b8aA4dCc05d233c2ecE"
       chainName: mantra
+      collateralAddressOrDenom: "0x437cc33344a0B27A429f795ff6B469C72698B291"
+      connections:
+        - token: ethereum|ethereum|0x36f586A30502AE3afb555b8aA4dCc05d233c2ecE
+      decimals: 6
+      logoURI: /deployments/warp_routes/wM/logo.svg
+      name: WrappedM by M^0
+      standard: EvmM0PortalLite
+      symbol: wM
+    - addressOrDenom: "0x36f586A30502AE3afb555b8aA4dCc05d233c2ecE"
+      chainName: plasma
       collateralAddressOrDenom: "0x437cc33344a0B27A429f795ff6B469C72698B291"
       connections:
         - token: ethereum|ethereum|0x36f586A30502AE3afb555b8aA4dCc05d233c2ecE
